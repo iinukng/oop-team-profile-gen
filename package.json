@@ -1,5 +1,28 @@
 {
   "dependencies": {
-    "inquirer": "^8.2.4"
-  }
+    "D": "^1.0.0",
+    "inquirer": "^8.2.4",
+    "jest": "^29.0.3"
+  },
+  "name": "oop-team-profile-gen",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iinukng/oop-team-profile-gen.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iinukng/oop-team-profile-gen/issues"
+  },
+  "homepage": "https://github.com/iinukng/oop-team-profile-gen#readme"
 }
